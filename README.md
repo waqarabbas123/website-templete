@@ -1,2 +1,2 @@
-In this repository we can make a clone website.
-this website is only for pc's because it is not responsive.
+In this repository i can make a website using html and css only
+This website is only for pc's because it is not reponsive.
