@@ -1,1 +1,1 @@
-In this repository i can make a website using html and css.
+In this repository i can make personal portfolio website using html and css .
