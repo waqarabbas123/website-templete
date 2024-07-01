@@ -1,1 +1,2 @@
-In this repository i can make a personal portfolio website using html and css for web developers.
+In this repository we can personal portfolio website using html and css .
+This portfolio website for the web developers .
